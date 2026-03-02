@@ -23,7 +23,6 @@ repository               : "agillman20/agillman20.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-#  avatar           : "profile.png"
   avatar           : "Rio3.jpg"
   name             : "Adrianna Gillman"
   pronouns         : # example: "she/her"  
