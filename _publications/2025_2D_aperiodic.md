@@ -1,7 +1,7 @@
 ---
 title: "An efficient boundary integral equation solution technique for solving aperiodic scattering problems from two-dimensional, periodic boundaries"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/journal-article/2025_2D_aperiodic.html
 date: 11/06/2026
 venue: '(in review) https://arxiv.org/abs/2511.04424'
