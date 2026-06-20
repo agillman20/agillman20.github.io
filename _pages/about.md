@@ -10,7 +10,7 @@ redirect_from:
 
 <head>
 <meta charset="UTF-8">
-<title>Donna Calhoun</title>
+<title>Adrianna Gillman</title>
 </head>
 
 
@@ -46,13 +46,11 @@ News from the Group
 
 * "An efficient boundary integral equation solution technique for solving aperiodic scattering problems from two-dimensional, periodic boundaries" by R. Fisher, F. Agocs and A. Gillman is submitted for review.  Congrats to Riley on her first paper!
 
-* A. Gillman to spend the 2025-2026 academic year at KTH as a guest researcher funded by a Wallenberg Foundation grant with the support of the Swedish Royal Academy of Sciences, August 2026.
-
 * A. Gillman is participating in the semester long program on [Interfaces and Unfitted Discretization Methods](https://www.mittag-leffler.se/activities/interfaces-and-unfitted-discretization-methods/) at the Mittag-Leffler Institute. 
 
-* A. Gillman will spend her sabbatical year as a Guest Researcher at KTH with the support of a Knut and Alice Wallenberg Foundation grant. 
+* A. Gillman will spend her sabbatical year as a Guest Researcher at KTH with the support of a [Knut and Alice Wallenberg Foundation](https://kaw.wallenberg.org/en/adrianna-gillman) grant with the support of the Swedish Royal Academy of Sciences. 
 
-* 1 and 2D HPS demo codes are available on GitHub.
+* 1 and 2D HPS demo codes are available on [GitHub](https://github.com/agillman20/HPS_Demos).
 
 
 
