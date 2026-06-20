@@ -7,7 +7,7 @@ abstract: 'This manuscript presents an efficient boundary integral equation tech
 date: 11/06/2026
 venue: '(in review) https://arxiv.org/abs/2511.04424'
 paperurl: 'https://arxiv.org/abs/2511.044242'
-citation: 'R. Fisher, F. Agocs, A. Gillman. (2025). &quot;An efficient boundary integral equation solution technique for solving aperiodic scattering problems from two-dimensional, periodic boundariesimages: 'BurgersLimSmooth_tikz0010.pdf'
+citation: 'R. Fisher, F. Agocs, A. Gillman. (2025). &quot;An efficient boundary integral equation solution technique for solving aperiodic scattering problems from two-dimensional, periodic boundaries
 caption: 'Efficient 2D aperiodic scattering solver'
 download: ca-ch-he-2022.pdf
 ---
