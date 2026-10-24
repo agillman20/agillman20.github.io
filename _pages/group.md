@@ -55,7 +55,7 @@ Former Graduate Students
 
 * [Yabin Zhang](http://www.caam.rice.edu/~yz89/): Spring 2020. First Job: Assistant Professor at Westlake University in China.
 * [Peter Geldermans](http://www.caam.rice.edu/~pjg4/index.html): Spring 2019. First Job: GE Renewable Energy.
-* [Arturo Vargas](http://www.caam.rice.edu/~av29/): First Job: Lawrence Livermore National Laboratory (LLNL). (Co-advised with T. Warburton)
+* Arturo Vargas: First Job: Lawrence Livermore National Laboratory (LLNL). (Co-advised with T. Warburton)
 
 Former Postdocs
 ---------------

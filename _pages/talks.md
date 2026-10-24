@@ -42,7 +42,7 @@ Colloquium or Seminar Presentations
 ======
 * Flatiron Institute, June 2022.
 * Columbia University, May 2022.
-* University of Irvine, April 2021.
+* University of California, Irvine, April 2021.
 * University of Michigan, April 2021.
 * Boise State University, Oct. 2020.
 * Flatiron Institute, January 2018.
