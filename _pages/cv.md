@@ -39,9 +39,3 @@ Recent Grants and External Support
 * Industrial contract, 4/2017 – 4/2019
 * Sloan Fellowship, 2016 – 2018
 * National Science Foundation, Grant DMS-1522631, PI, 08/2015 – 07/2019
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
