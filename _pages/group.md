@@ -10,10 +10,45 @@ redirect_from:
 Graduate Students
 -----------------
 
-* [Riley Fisher](https://www.colorado.edu/amath/riley-fisher): Working on efficient direct solvers for 2 and 3 dimensional quasi-periodic scattering problems. (Co-advised with Fruzsina Agocs)
-* [Nikole Scribner Trout](https://www.colorado.edu/amath/nikole-scribner-trout): Working on modal spectral discretizations.
-* [Graham Mauer](https://www.colorado.edu/amath/graham-mauer): Working on efficient solvers for finite element and finite volume discretizations in the AMR setting.
-* [Jon Shaw](https://jonathan-d-shaw.github.io): Working on efficient boundary integral equation solvers.
+<style>
+  .group-member { overflow: hidden; }
+  .group-member figure { width: 30%; max-width: 270px; margin: 0.25em 0 1em; }
+  .group-member figure.float-left { float: left; margin-right: 1.5em; }
+  .group-member figure img { display: block; width: 100%; aspect-ratio: 4 / 5; object-fit: cover; border-radius: 0.25rem; box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12); }
+  @media (max-width: 576px) {
+    .group-member figure, .group-member figure.float-left { float: none; width: 100%; max-width: 320px; margin: 0 auto 1em; }
+  }
+</style>
+
+<hr>
+
+<div class="group-member">
+  <figure class="float-left"><img src="/images/group/riley.jpg" alt="Riley Fisher" style="object-position: center 35%;"></figure>
+  <p><strong><a href="https://www.colorado.edu/amath/riley-fisher">Riley Fisher</a></strong> is working on efficient direct solvers for 2 and 3 dimensional quasi-periodic scattering problems. (Co-advised with Fruzsina Agocs)</p>
+</div>
+
+<hr>
+
+<div class="group-member">
+  <figure class="float-left"><img src="/images/group/nikole.jpg" alt="Nikole Scribner Trout"></figure>
+  <p><strong><a href="https://www.colorado.edu/amath/nikole-scribner-trout">Nikole Scribner Trout</a></strong> is working on modal spectral discretizations.</p>
+</div>
+
+<hr>
+
+<div class="group-member">
+  <figure class="float-left"><img src="/images/group/graham.jpg" alt="Graham Mauer"></figure>
+  <p><strong><a href="https://www.colorado.edu/amath/graham-mauer">Graham Mauer</a></strong> is working on efficient solvers for finite element and finite volume discretizations in the AMR setting.</p>
+</div>
+
+<hr>
+
+<div class="group-member">
+  <figure class="float-left"><img src="/images/group/jon.jpg" alt="Jon Shaw"></figure>
+  <p><strong><a href="https://jonathan-d-shaw.github.io">Jon Shaw</a></strong> is working on efficient boundary integral equation solvers.</p>
+</div>
+
+<hr>
 
 Former Graduate Students
 ------------------------
