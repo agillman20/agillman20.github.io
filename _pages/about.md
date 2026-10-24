@@ -36,7 +36,7 @@ News from the Group
 * A. Gillman to give a Numerical Analysis Seminar at University College London, May 2026.
 
 
-* A. Gillman to give a Numerical Analysis Seminar at TU Delft, May 2026.
+* A. Gillman to give a Numerical Analysis Seminar at TU Delft, April 2026.
 
 
 * A. Gillman to give a Seminar for the POEMS group at CNRS–INRIA–ENSTA, Paris, April 2026.
