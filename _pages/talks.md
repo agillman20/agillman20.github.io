@@ -7,43 +7,37 @@ author_profile: true
 
 Upcoming Presentations
 ======
-* Joint Math Meetings, January 2027.
-* SIAM CSE, February 2027.
+* Colloquium, Northwestern University, October 2026.
+* Invited presentation, Joint Math Meetings, January 2027.
+* Minisymposium organizer and speaker, SIAM CSE, February 2027.
 * UC Denver, April 2027.
-* ICOSAHOM, July 2027.
-* IMSI workshop titled "Analysis-based fast methods for computational PDE", August 2027.
+* Invited presentation, ICOSAHOM, July 2027.
+* Invited presentation, Institute for Mathematical and Statistical Innovation (IMSI) workshop titled "Analysis-based fast methods for computational PDE", August 2027.
 
-Plenary
+Plenary Lectures
 ======
 * Conference on Fast Solvers, October 2021.
 * Domain Decomposition, December 2020.
 * North American Higher Order Methods Conference, June 2019.
 * AMS Central Sectional Meeting, September 2017.
 
-Presentations
+Invited Presentations at Workshops
 ======
-* Workshop at University of Florida, October 2022.
-* Workshop on Solvers for Frequency-Domain Wave Problems and Applications at University of Strathclyde, Glasgow, June 2022.
-* ICOSAHOM, July 2021.
-* Joint Math Meeting, January 2021.
-* Oberwolfach, February 2020.
-* ICIAM, July 2019.
-* Applied Inverse Problems, July 2019.
-* BIRS Women in Numerical Methods for PDEs and their applications, May 2019.
-* SIAM CSE, February 2019.
-* SIAM Texas-Louisiana Sectional meeting, October 2018.
-* International Conference on Spectral and High Order Methods (ICOSAHOM), July 2018.
-* International Association for Boundary Element Methods (IABEM), June 2018.
-* SIAM Applied Linear Algebra, May 2018.
-* Courant's Numerical Analysis and Scientific Computing Seminar, March 2018.
-* ICERM: Fast Algorithms for Generating Static and Dynamically Changing Point Configurations, March 2018.
+* Workshop II: Solvers and Preconditioners of the Interfaces and Unfitted Discretization Methods Program, Institut Mittag-Leffler, Djursholm, Sweden, October 2025.
+* Numerical Methods for PDEs and Their Applications, Institut Mittag-Leffler, Djursholm, Sweden, June 2024.
 
-Colloquium or Seminar Presentations
+Invited Conference Presentations
 ======
-* Flatiron Institute, June 2022.
-* Columbia University, May 2022.
-* University of California, Irvine, April 2021.
-* University of Michigan, April 2021.
-* Boise State University, Oct. 2020.
-* Flatiron Institute, January 2018.
-* Colorado School of Mines, January 2018.
+* ICOSAHOM, July 2025.
+* SIAM CSE, April 2025.
+* SIAM Applied Linear Algebra, May 2024.
+
+Colloquium and Seminar Presentations
+======
+* University College London (UCL), May 2026.
+* Numerical Analysis Numerics seminar, TU Delft, April 2026.
+* Seminar, INRIA-ENSTA POEMS, April 2026.
+* Computational Math Seminar, KTH, April 2026.
+* KTH Acoustics Seminar, March 2026.
+* Seminar, Flatiron Institute, December 2024.
+* Colloquium, Computer Science Department, University of Illinois Urbana-Champaign, November 2024.
