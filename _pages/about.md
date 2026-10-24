@@ -30,7 +30,7 @@ Roughly speaking, my research interests lie in the intersection of scientific co
 News from the Group
 -------------------
 
-* We welcome Jon Shaw to the group, June 2026.
+* We welcomed Jon Shaw to the group, June 2026.
 
 
 * A. Gillman to give a Numerical Analysis Seminar at University College London, May 2026.
