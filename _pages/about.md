@@ -30,28 +30,10 @@ Roughly speaking, my research interests lie in the intersection of scientific co
 News from the Group
 -------------------
 
+* A. Gillman to give an invited presentation at the Joint Math Meetings, January 2027.
+* A. Gillman to organize and speak in a minisymposium at SIAM CSE, February 2027.
+* A. Gillman to give a talk at UC Denver, April 2027.
+* A. Gillman to give an invited presentation at ICOSAHOM, July 2027.
+* A. Gillman to give an invited presentation at the Institute for Mathematical and Statistical Innovation (IMSI) workshop titled "Analysis-based fast methods for computational PDE", August 2027.
+
 * We welcomed Jon Shaw to the group, June 2026.
-
-
-* A. Gillman to give a Numerical Analysis Seminar at University College London, May 2026.
-
-
-* A. Gillman to give a Numerical Analysis Seminar at TU Delft, April 2026.
-
-
-* A. Gillman to give a Seminar for the POEMS group at CNRS–INRIA–ENSTA, Paris, April 2026.
-
-
-* A. Gillman, D. Calhoun, H. Wilber and J. Kowalski host a BIRS Workshop in Banff, Canada, March 2026.
-
-* "An efficient boundary integral equation solution technique for solving aperiodic scattering problems from two-dimensional, periodic boundaries" by R. Fisher, F. Agocs and A. Gillman is submitted for review.  Congrats to Riley on her first paper!
-
-* A. Gillman is participating in the semester long program on [Interfaces and Unfitted Discretization Methods](https://www.mittag-leffler.se/activities/interfaces-and-unfitted-discretization-methods/) at the Mittag-Leffler Institute. 
-
-* A. Gillman will spend her sabbatical year as a Guest Researcher at KTH with the support of a [Knut and Alice Wallenberg Foundation](https://kaw.wallenberg.org/en/adrianna-gillman) grant with the support of the Swedish Royal Academy of Sciences. 
-
-* 1 and 2D HPS demo codes are available on [GitHub](https://github.com/agillman20/HPS_Demos).
-
-
-
-
