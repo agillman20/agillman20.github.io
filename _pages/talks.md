@@ -7,7 +7,6 @@ author_profile: true
 
 Upcoming Presentations
 ======
-* Colloquium, Northwestern University, October 2026.
 * Invited presentation, Joint Math Meetings, January 2027.
 * Minisymposium organizer and speaker, SIAM CSE, February 2027.
 * UC Denver, April 2027.
@@ -34,6 +33,7 @@ Invited Conference Presentations
 
 Colloquium and Seminar Presentations
 ======
+* Colloquium, Northwestern University, October 2026.
 * University College London (UCL), May 2026.
 * Numerical Analysis Numerics seminar, TU Delft, April 2026.
 * Seminar, INRIA-ENSTA POEMS, April 2026.
