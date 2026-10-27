@@ -38,7 +38,7 @@ Graduate Students
 
 <div class="group-member">
   <figure class="float-left"><img src="/images/group/graham.jpg" alt="Graham Mauer"></figure>
-  <p><strong><a href="https://www.colorado.edu/amath/graham-mauer">Graham Mauer</a></strong> is working on efficient solvers for finite element and finite volume discretizations in the AMR setting.</p>
+  <p><strong><a href="https://grahammauer.github.io">Graham Mauer</a></strong> is working on efficient solvers for finite element and finite volume discretizations in the AMR setting.</p>
 </div>
 
 <hr>
