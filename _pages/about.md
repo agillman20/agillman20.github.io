@@ -30,6 +30,8 @@ Roughly speaking, my research interests lie in the intersection of scientific co
 News from the Group
 -------------------
 
+* Riley Fisher's first paper, ["An efficient boundary integral equation solution technique for solving aperiodic scattering problems from two-dimensional, periodic boundaries,"](https://www.sciencedirect.com/science/article/pii/S0021999126009137) was accepted in the Journal of Computational Physics, November 2026 (to appear February 2027).
+
 * A. Gillman to give an invited presentation at the Joint Math Meetings, January 2027.
 * A. Gillman to organize and speak in a minisymposium at SIAM CSE, February 2027.
 * A. Gillman to give a talk at UC Denver, April 2027.
