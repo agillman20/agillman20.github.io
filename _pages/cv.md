@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For more information, please see my [full vita](https://drive.google.com/file/d/1PR6FQMo_I5Yc0ArS2hMc3gKCiiaLJnPI/view?usp=sharing).
+For more information, please see my [full vita](/files/cv.pdf).
 
 Work Experience
 ======
